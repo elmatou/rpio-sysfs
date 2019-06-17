@@ -1,5 +1,4 @@
 require "bundler/setup"
-require "rpio"
 require "rpio/sysfs"
 
 RSpec.configure do |config|

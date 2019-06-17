@@ -1,10 +1,8 @@
-
 require "rpio/sysfs/version"
 
 require "rpio"
 
 require "rpio/sysfs/gpio"
-
 require "rpio/sysfs/driver"
 
 module Rpio
